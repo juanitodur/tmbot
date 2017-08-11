@@ -1,0 +1,27 @@
+{
+  "name": "tmbot",
+  "version": "0.1",
+  "description": "Territorio Marcial Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vernon99/messenger-quick-start.git"
+  },
+  "keywords": [
+    "territorio_marcial",
+    "messenger",
+    "bot",
+    "quickstart"
+  ],
+  "author": "Juan Ignacio Durante",
+  "license": "MIT",
+  "homepage": "https://www.facebook.com/Test-TMbot-164960627385573/",
+  "dependencies": {
+    "request": "^2.81.0",
+    "express": "^4.15.4",
+    "body-parser": "^1.17.2"
+  }
+}
